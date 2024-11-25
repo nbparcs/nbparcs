@@ -1,6 +1,7 @@
 👋 Hi, I’m Nathalie Arcolas
 
 -👩‍💻 I’m passionate about design and programming/development.
+
 -👀 I’m always curious and love exploring new technologies.
 -🎮 Proud SIMS gal ✨
 
